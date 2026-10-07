@@ -8,6 +8,7 @@ I build web apps and teach others to build them. I'm a Web Programming Trainer a
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**Treasure Trail**](https://github.com/Engsabah37/treasure-trail-quiz) | Full-stack review game: 260 questions in 5 question-type UIs, saved scores and a live teacher dashboard ([live](https://treasure-trail-quiz.vercel.app)) | Next.js · PostgreSQL · React |
 | [**Class Wall**](https://github.com/Engsabah37/class-wall) | Students scan a QR code and their answers appear live on the projector | PHP · MySQL · JavaScript |
 | [**Sabah Learning Platform**](https://presentcreator.shop) | Bilingual (Arabic/English) e-learning site with lessons, a glossary and an auto-graded exam | HTML · CSS · JavaScript |
 | [**My Tasks**](https://github.com/Engsabah37/react-todo-app) | Task manager with filtering ([live](https://react-todo-tau-lime.vercel.app)) | React · Vite |
@@ -15,8 +16,8 @@ I build web apps and teach others to build them. I'm a Web Programming Trainer a
 
 ### 🛠 Tech I Work With
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React
-- **Backend & Database:** PHP, MySQL
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Next.js
+- **Backend & Database:** PHP, MySQL, Next.js API routes, PostgreSQL
 - **Tools:** Git, GitHub, Vercel, XAMPP
 - **Currently learning:** Node.js, Python, Data Science & ML (DEPI)
 
